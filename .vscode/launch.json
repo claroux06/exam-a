@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/alexa/OneDrive/Documents/NSFW/Examens/exam-a",
-      "program": "c:/Users/alexa/OneDrive/Documents/NSFW/Examens/exam-a/build/Debug/outDebug",
+      "cwd": "C:/Users/vanto/OneDrive/Bureau/Projet_10/exam-a",
+      "program": "C:/Users/vanto/OneDrive/Bureau/Projet_10/exam-a",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
